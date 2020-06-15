@@ -7,7 +7,7 @@
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
-
+      <p>Soy un texto inicial que debo existir por el momento</p>
   </div>
 </template>
 
