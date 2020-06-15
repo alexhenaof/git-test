@@ -8,6 +8,20 @@
     </p>
     <h3>Installed CLI Plugins</h3>
       <p>Soy un texto inicial que debo existir por el momento</p>
+    <div>
+      <img src="https://source.unsplash.com/1220x600/?nature,water" alt="photo" title="random p">
+    </div>
+    <div class="imagesx">
+      <div>
+        <img src="https://source.unsplash.com/408x500/?nature" alt="photo" title="random photo nature">
+      </div>
+      <div>
+        <img src="https://source.unsplash.com/408x500/?water" alt="photo" title="random photo water">
+      </div>
+      <div>
+        <img src="https://source.unsplash.com/408x500/?dog" alt="photo" title="random photo dog">
+      </div>
+    </div>
   </div>
 </template>
 
